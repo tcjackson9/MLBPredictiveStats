@@ -27,3 +27,5 @@ You can install the required libraries using pip:
 
 Results
 The scripts will output Manny Machado's predicted statistics for the next eight years. The polynomial regression script also provides visualizations of the predicted stats against age.
+
+Data from BaseballReference.
