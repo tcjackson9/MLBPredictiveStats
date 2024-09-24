@@ -3,8 +3,8 @@ Overview
 This project aims to predict the future performance of MLB players, specifically focusing on Manny Machado's statistics over the next eight years. The project utilizes historical player data, including age and various performance metrics, to create predictive models using polynomial regression.
 
 Files
-original_prediction.py: This script predicts Manny Machado's stats based on historical data from players who played past age 31, using a linear regression model.
-polynomial_regression.py: This script predicts Manny Machado's stats using polynomial regression, allowing for a non-linear relationship between age and performance metrics.
+MannyMachadoStatsPredictive.py: This script predicts Manny Machado's stats based on historical data from players who played past age 31, using a linear regression model.
+MannyPredictiveStatsUsingPolynomialRegression.py: This script predicts Manny Machado's stats using polynomial regression, allowing for a non-linear relationship between age and performance metrics.
 Datasets
 
 The project utilizes the following datasets:
